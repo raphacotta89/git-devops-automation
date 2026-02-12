@@ -28,5 +28,6 @@ Clone o repositório:
 ```bash
 git clone git@github.com:raphacotta89/git-devops-automation.git
 cd git-devops-automation
-:wq
+teste
+
 
